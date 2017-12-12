@@ -7,7 +7,7 @@ If you find this tool useful and like to support its continued
           development, then consider a donation.
 
    LTC donation address: LKS1WDKGED647msBQfLBHV3Ls8sveGncnm
-   BTC donation address: 16hJF5mceSojnTD3ZTUDqdRhDyPJzoRakM
+   BTC donation address: 1429VbQBVPCnEoP5iuT3mfv2fJCaAuwiTo
    YAC donation address: Y87sptDEcpLkLeAuex6qZioDbvy1qXZEj4
    VTC donation address: VrjeFzMgvteCGarLw85KivBzmsiH9fqp4a
    MAX donation address: mHrhQP9EFArechWxTFJ97s9D3jvcCvEEnt
